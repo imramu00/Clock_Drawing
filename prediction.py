@@ -1,8 +1,7 @@
 from detecto import utils, visualize, core
-
+import torch
 def predict(img):
-	model = core.Model()
-
+	model = torch.load("torch_model_pkl.pkl")
 	predictions = model.predict_top(img)
 	labels, boxes, scores = predictions
 
