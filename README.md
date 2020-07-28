@@ -2,7 +2,7 @@
 
 1.Clone the repo in your PC
 
-2.Dow the following .pkl file from the given link and keep it in the Clock_Drawing folder
+2.Download the following .pkl file from the given link and keep it in the Clock_Drawing folder
   https://drive.google.com/file/d/1AhnNatT_hTxV6Cp2By2t2BmdnxJ3YouT/view?usp=sharing
   
 3.Install python3 and pip3 using the given commands in terminal
