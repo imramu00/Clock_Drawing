@@ -1,5 +1,4 @@
 detecto==1.1.4
 Flask==1.1.2
 Pillow==7.2.0
-
-
+gunicorn==19.9.0
